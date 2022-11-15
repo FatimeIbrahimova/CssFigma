@@ -1,0 +1,125 @@
+.title {
+    text-align: center;
+    font-family: 'Lobster', cursive;
+    color: #109E97;
+}
+
+hr {
+    border: 1px solid black;
+}
+
+.book {
+    font-family: 'Roboto', sans-serif;
+}
+
+#oniki {
+    color: #008000;
+    font-size: 25px;
+    font-family: 'Roboto';
+}
+
+#onbes {
+    color: #FF0000;
+    font-size: 15px;
+    font-family: 'Roboto';
+}
+
+.img {
+    width: 190px;
+    height: 300px;
+    left: 8px;
+    top: 246px;
+}
+
+.div {
+    background-color: black;
+    color: white;
+    text-align: right;
+    font-size: 20px;
+    height: 256px;
+    padding: 5px;
+}
+
+.xususiyyet {
+    text-transform: uppercase;
+}
+
+.image {
+    width: 300px;
+    height: 478px;
+}
+
+table,
+tr,
+th,
+td {
+    border: 1px solid #808080;
+}
+
+table {
+    width: 100%;
+}
+
+th,
+td {
+    padding: 10px;
+}
+
+.flex-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.box1,
+.box3 {
+    margin-top: 50px;
+}
+
+.box2 {
+    text-align: center;
+}
+
+.serh {
+    text-transform: uppercase;
+    font-family: 'Roboto';
+}
+
+.input {
+    background-color: #DDDDDD;
+    width: 80px;
+    height: 15px;
+}
+
+.text {
+    width: 261px;
+    height: 156px;
+    background: #FFFFFF;
+    border: 1px solid #767676;
+    border-radius: 0px;
+}
+
+.box {
+    background: #109E97;
+    width: 120px;
+    height: 50px;
+}
+
+.list {
+    font-family: 'Roboto';
+    color: #0000EE;
+    list-style-type: none
+}
+
+#son {
+    background: #109E97;
+    width: 1822px;
+    height: 86px;
+    margin-bottom: 10px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+    color: #FFFFFF;
+}
